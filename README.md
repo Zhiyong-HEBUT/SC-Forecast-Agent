@@ -276,7 +276,7 @@ Agent Prompt 明确要求只根据这些指标进行解释，不擅自假设促�
 ## 项目信息
 
 - 项目名称：SmartSCM Agents
-- 项目定位：智能供应链预测与补货决策演示系统
+- 项目定位：智能供应链预测与补货决策系统
 - 维护者："Zhiyong"
 - 仓库地址：`https://github.com/<your-account>/SmartSCM-Agents`
 
