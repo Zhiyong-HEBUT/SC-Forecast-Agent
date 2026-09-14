@@ -277,7 +277,7 @@ Agent Prompt 明确要求只根据这些指标进行解释，不擅自假设促�
 
 - 项目名称：SmartSCM Agents
 - 项目定位：智能供应链预测与补货决策演示系统
-- 维护者："<Zhiyong>"
+- 维护者："Zhiyong"
 - 仓库地址：`https://github.com/<your-account>/SmartSCM-Agents`
 
 发布到公开仓库前，建议把上面的维护者和仓库地址替换成你自己的信息，并确认第三方数据、模型和代码所适用的许可条款。M5 数据本身请遵守其原始数据集与竞赛规则。
