@@ -1,4 +1,4 @@
-# SmartSCM Agents
+# SmartSC-Forecast Agents
 
 > 智能供应链需求预测、库存风险分析与 AI 多智能体决策系统
 
